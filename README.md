@@ -1,12 +1,7 @@
 ![MasterHead](https://i.ibb.co/vPdHRQC/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f6164.gif)
-<p align="center">
- <a href="https://github.com/GihanSanjeewa">
-  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png?width=400&format=webpll"/>
- </a>
-</p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Gihan%20Sanjeewa;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Writer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Udara%20Ekanayake;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Writer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
@@ -16,15 +11,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://www.linkedin.com/in/gihan-sanjeewa-061652276/" target="_blank">
-  <img align="center" alt="Gihan Sanjeewa | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+<a href="https://www.linkedin.com/in/udaraekanayake96/" target="_blank">
+  <img align="center" alt="Udara Ekanayake | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a> &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/21893184/gihan-sanjeewa" target="_blank">
-  <img align="center" alt="Gihan Sanjeewa | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
+<a href="https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank">
+  <img align="center" alt="Udara Ekanayake | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
 </a> &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/g_i_h_a_n_sanjeewa/" target="_blank">
-  <img align="center" alt="Gihan Sanjeewa | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+<a href="https://www.instagram.com/udaraekanayake_96/" target="_blank">
+  <img align="center" alt="Udara Ekanayake | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a> &nbsp;&nbsp;
 <p>
   
