@@ -29,37 +29,41 @@ technology.</h3>
 <p align="center" width="100%">
 
 <a href="https://github.com/udaraekanayake96?tab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic" />
-</a> &nbsp;&nbsp;
+  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=udaraekanayake96&style=plastic" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/udaraekanayake96tab=followers" target="_blank">
   <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake96?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
 
+
+
 <br/>
 
-## 🙋‍♂️ About Me
+## About Me 🙋‍♂️
 
-- 🌱 I’m currently learning **BSc (Hons) in Software Engineering**
+- 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an Instructor.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **BSc (Hons) in Software Engineering**.
 
-- 📫 How to reach me **udaraekanayake96@gmail.com**
+- 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ Fun fact **I play video games and watch movies**
+- 📮 How to reach me **udaraekanayake1996@gmail.com**
+
+- ⚡ Fun fact **I play video games and watch movies**.
   <br/>
 
-## Awards
+## Awards 🥇
 
 [![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
 
-<p align="center">
-  <p align="center">
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-  </p>
-</p>
+## Stat streak & Tropies 👑
 
-## 📊 My Stackoverflow and Github Status
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaraekanayake96&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+
+## Stackoverflow and Github Status 
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
 
