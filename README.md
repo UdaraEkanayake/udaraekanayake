@@ -65,11 +65,12 @@ technology.</h3>
 ## 📊 My Stackoverflow and Github Status
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
-<a href="https://GihanSanjeewa.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GihanSanjeewa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
+<a href="https://udaraekanayake96.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=udaraekanayake96&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
 </a>
-<a href="https://GihanSanjeewa.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanSanjeewa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<br/>
+<a href="https://udaraekanayake96.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake96&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
 <p align="center"> 
