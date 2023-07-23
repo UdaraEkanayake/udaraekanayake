@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/vPdHRQC/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f6164.gif)
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Udara%20Ekanayake;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Writer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Udara%20Ekanayake;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Gamer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
@@ -55,7 +55,7 @@
 <p align="center">
   <p align="center">
     <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhusha Prasad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Udara Ekanayake's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
 </p>
