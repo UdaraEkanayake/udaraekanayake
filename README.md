@@ -45,13 +45,15 @@ technology.</h3>
 
 - 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an Instructor.
 
+- 🐺 Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)**
+
 - 🌱 I’m currently learning **BSc (Hons) in Software Engineering**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
 - 📮 How to reach me **udaraekanayake1996@gmail.com**
 
-- ⚡ Fun fact **I play video games and watch movies**.
+- ⚡ Fun fact **I play video games , watch English movies , TV-series & animes**.
   <br/>
 
 ## Awards 🥇
@@ -66,7 +68,7 @@ technology.</h3>
 ![trophy](https://github-profile-trophy.vercel.app/?username=udaraekanayake96&theme=onedark)
 
 
-## Stackoverflow and Github Status 
+## Stackoverflow and Github Status 👾
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
 
@@ -74,14 +76,6 @@ technology.</h3>
 
   <a href="https://github.com/udaraekanayake96/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake96&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
-<br/>
-
-<p align="center"> 
-  Visitor count<br>
-  <a href="https://udaraekanayake96.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
-  </a>
-</p>
 <br/>
 
 <center>
@@ -92,17 +86,25 @@ UI, UX, and design in general.
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🎲</h3>
 <br/>
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,c,cpp,cs,html,css,tailwind,js,nextjs,nodejs,express,laravel,java,react,pug,azure,docker,eclipse,idea,firebase,linkedin,matlab,mongodb,mysql,php,postman,spring,stackoverflow,unity,visualstudio,vscode,threejs,raspberrypi,dotnet,blender,androidstudio)
 
 <br/>
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
+If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
 <a href="https://www.buymeacoffee.com/udara96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-## Snake eating my contributions graph
+## Snake eating my contributions graph 🐍
 
 ![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://udaraekanayake96.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
+  </a>
+</p>
+<br/>
