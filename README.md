@@ -17,7 +17,6 @@
 <a href="https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank">
   <img align="center" alt="Udara Ekanayake | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
 </a> &nbsp;&nbsp;
-
 <a href="https://www.instagram.com/udaraekanayake_96/" target="_blank">
   <img align="center" alt="Udara Ekanayake | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a> &nbsp;&nbsp;
@@ -51,8 +50,7 @@
 
 ## Awards
 
-[![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
-<hr/>
+[![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
 
 <p align="center">
   <p align="center">
