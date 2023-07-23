@@ -40,32 +40,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **BSc (Hons) in Software Engineering Degree**
+- 🌱 I’m currently learning **BSc (Hons) in Software Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **gihansanjeewa.m@gmail.com**
+- 📫 How to reach me **udaraekanayake96@gmail.com**
 
 - ⚡ Fun fact **I play video games and watch movies**
   <br/>
 
 <p align="center">
-
-```
-For Academic Purposes
-
-Student IT : KUHDSE22.1f-024
-Student Name : M.P.D.Gihan Sanjeewa
-```
-
-</p>
-
-
-
-<p align="center">
   <p align="center">
-    <a href="https://github.com/GihanSanjeewa/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gihan Sanjeewa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanSanjeewad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    <a href="https://github.com/udaraekanayake96/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Udara Ekanayake's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanSanjeewad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
 </p>
