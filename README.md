@@ -57,6 +57,8 @@
     <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Udara Ekanayake's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
   </p>
 </p>
 
