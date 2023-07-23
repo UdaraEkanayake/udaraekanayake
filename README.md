@@ -65,13 +65,13 @@ technology.</h3>
 ## 📊 My Stackoverflow and Github Status
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
-<a href="https://udaraekanayake96.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=udaraekanayake96&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
-</a>
+
+<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+
 <br/>
-<a href="https://udaraekanayake96.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake96&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
+
+  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+
 
 <p align="center"> 
   Visitor count<br>
