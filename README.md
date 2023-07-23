@@ -100,4 +100,4 @@ ui, ux, and design in general.
 
 ## Snake eating my contributions graph
 
-![snake gif](https://github.com/GihanSanjeewa/GihanSanjeewa/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
