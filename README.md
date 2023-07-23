@@ -49,25 +49,31 @@
 - ⚡ Fun fact **I play video games and watch movies**
   <br/>
 
+## Awards
+
+[![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
+<hr/>
+
 <p align="center">
   <p align="center">
-    <a href="https://github.com/udaraekanayake96/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Udara Ekanayake's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanSanjeewad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    <a href="https://github.com/MadhushaPrasad/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhusha Prasad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushaPrasad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
 </p>
 
-## 📊 My Github Status
+## 📊 My Stackoverflow and Github Status
 
-<a href="https://github.com/GihanSanjeewa/github-readme-stats"><img alt="Gihan Sanjeewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GihanSanjeewa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/GihanSanjeewa/github-readme-stats"><img alt="GihanSanjeewa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanSanjeewa&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
+<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
-  <br/>
+<br/>
 
-  <center>
-  <b>Note:</b> I really enjoy learning languages and
-frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy 
-ui, ux, and design in general.
+<center>
+<b>Note:</b> I really enjoy learning languages and
+frameworks like React and React Native, as well as learning Software engineering. And also enjoy wireframing,
+UI, UX, and design in general.
 </center>
 
 <br/>
@@ -94,8 +100,8 @@ ui, ux, and design in general.
 
 <br/>
 
-
-
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/udara96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 ## Snake eating my contributions graph
