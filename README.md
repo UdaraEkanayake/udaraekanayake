@@ -9,7 +9,6 @@ place for all the living beings and I'm trying my best to achieve it with
 technology.</h3>
 
 <br/>
-<br/>
 
 <!-- Social icons section -->
 <p align="center">
