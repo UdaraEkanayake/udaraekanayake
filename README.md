@@ -31,8 +31,8 @@
 <a href="https://github.com/udaraekanayake96?tab=followers" target="_blank">
   <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/GihanSanjeewa?tab=followers" target="_blank">
-  <img align="center" alt="Gihan Sanjeewa | followers" width="93px" src="https://img.shields.io/github/followers/GihanSanjeewa?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+<a href="https://github.com/udaraekanayake96tab=followers" target="_blank">
+  <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake96?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
 
