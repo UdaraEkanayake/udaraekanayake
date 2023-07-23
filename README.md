@@ -65,8 +65,8 @@ technology.</h3>
 ## 📊 My Stackoverflow and Github Status
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
-<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+<a href="https://github.com/udaraekanayake96/github-readme-stats"><img alt="Udara Ekanayake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=udaraekanayake96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+<a href="https://github.com/udaraekanayake96/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake96&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
 <br/>
 
