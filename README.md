@@ -110,7 +110,7 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/LakiDIV">
-    <img src="data/bottom_header.svg" alt="Lakshika Madhuranga">
+  <a href="https://github.com/udaraekanayake96">
+    <img src="data/bottom_header.svg" alt="Udara Ekanayake">
   </a>
 </p>
