@@ -108,3 +108,9 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
   </a>
 </p>
 <br/>
+
+<p align="center">
+  <a href="https://github.com/LakiDIV">
+    <img src="data/bottom_header.svg" alt="Lakshika Madhuranga">
+  </a>
+</p>
