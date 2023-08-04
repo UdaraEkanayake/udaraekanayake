@@ -45,7 +45,7 @@ technology.</h3>
 <a href="https://instagram.com/udaraekanayake_96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://linkedin.com/in/udaraekanayake96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/udaraekanayake7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="[https://twitter.com/udaraekanayake7](https://stackoverflow.com/users/22035554/udara-ekanayake)" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%231DA1F2.svg?&style=flat-square&logo=Stackoverflow&logoColor=yellow" alt="StackOverFlow"></a>
+<a href="[https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%231DA1F2.svg?&style=flat-square&logo=Stackoverflow&logoColor=yellow" alt="StackOverFlow"></a>
 
 
 <br/>
