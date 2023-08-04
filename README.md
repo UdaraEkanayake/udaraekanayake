@@ -8,6 +8,16 @@
 place for all the living beings and I'm trying my best to achieve it with
 technology.</h3>
 <p>
+
+<br/>
+
+<center>
+<b>Note:</b> I really enjoy learning languages and
+frameworks like React and React Native, as well as learning Software engineering. And also enjoy wireframing,
+UI, UX, and design in general.
+</center>
+
+<br/>
   
 <br/>
 
@@ -76,14 +86,6 @@ technology.</h3>
 ![Udara Ekanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaraekanayake96&theme=tokyonight&show_icons=true)
 
   <a href="https://github.com/udaraekanayake96/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake96&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-
-<br/>
-
-<center>
-<b>Note:</b> I really enjoy learning languages and
-frameworks like React and React Native, as well as learning Software engineering. And also enjoy wireframing,
-UI, UX, and design in general.
-</center>
 
 <br/>
 
