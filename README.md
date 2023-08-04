@@ -7,20 +7,6 @@
 <h3 align="center">A motivated and punctual individual who can work in a busy environment and produce high standards of work while being excellent in teamwork , dedication and interpersonal skills. I want to make this planet a better
 place for all the living beings and I'm trying my best to achieve it with
 technology.</h3>
-
-<br/>
-
-<!-- Social icons section -->
-<p align="center">
-<a href="https://www.linkedin.com/in/udaraekanayake96/" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a> &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/udaraekanayake_96/" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a> &nbsp;&nbsp;
 <p>
   
 <br/>
@@ -103,7 +89,7 @@ UI, UX, and design in general.
 <br/>
 
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=Brave&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
 <br/>
 
