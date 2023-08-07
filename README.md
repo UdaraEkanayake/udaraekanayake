@@ -24,12 +24,12 @@ UI, UX, and design in general.
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
 
-<a href="https://github.com/udaraekanayake96?tab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=udaraekanayake96&style=plastic" />
+<a href="https://github.com/udaraekanayake?tab=followers" target="_blank">
+  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=udaraekanayake&style=plastic" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/udaraekanayake96tab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake96?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+<a href="https://github.com/udaraekanayaketab=followers" target="_blank">
+  <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
 
@@ -73,19 +73,19 @@ UI, UX, and design in general.
 
 ## Stat streak & Tropies 👑
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaraekanayake96&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaraekanayake&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=udaraekanayake96&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=udaraekanayake&theme=onedark)
 
 
 ## Stackoverflow and Github Status 👾
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
 
-![Udara Ekanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaraekanayake96&theme=tokyonight&show_icons=true)
+![Udara Ekanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaraekanayake&theme=tokyonight&show_icons=true)
 
-  <a href="https://github.com/udaraekanayake96/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake96&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/udaraekanayake/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
 <br/>
 
@@ -107,14 +107,14 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
 
 <p align="center"> 
   Visitor count<br>
-  <a href="https://udaraekanayake96.xyz?ref=github">
+  <a href="https://udaraekanayake.xyz?ref=github">
     <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
   </a>
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/udaraekanayake96">
+  <a href="https://github.com/udaraekanayake">
     <img src="data/bottom_header.svg" alt="Udara Ekanayake">
   </a>
 </p>
