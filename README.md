@@ -125,6 +125,14 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
 #### A journey started with 
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
+#### 🖥️ My DevSetup
+
+<img src="https://img.shields.io/badge/Apple-555555.svg?&style=flat-square&logo=apple&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=Brave&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
+![Brave](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=brave&logoColor=white)
+![VS](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 
 ## Snake eating my contributions graph 🐍
