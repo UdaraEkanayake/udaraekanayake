@@ -62,7 +62,7 @@ UI, UX, and design in general.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 📮 How to reach me **udaraekanayake1996@gmail.com**
+- 📮 How to reach me **udaraekanayake.in@gmail.com**
 
 - ⚡ Fun fact **I play video games , watch English movies , TV-series & animes**.
   <br/>
