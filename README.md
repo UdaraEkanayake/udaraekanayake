@@ -144,18 +144,20 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
   />
 </picture>
 
-
-<p align="center"> 
-  Visitor count<br>
-  <a href="https://udaraekanayake.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
-  </a>
-</p>
 <br/>
 
 <p align="center">
   <a href="https://github.com/udaraekanayake">
     <img src="data/bottom_header.svg" alt="Udara Ekanayake">
+  </a>
+</p>
+
+<br/>
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://udaraekanayake.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
   </a>
 </p>
 
