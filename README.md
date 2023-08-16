@@ -37,18 +37,11 @@ UI, UX, and design in general.
 <br> 
 
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Apple-555555.svg?&style=flat-square&logo=apple&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=Brave&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
-
-<br/>
-
-
-### 👨🏻‍💻 Follow me around the web 
-<a href="https://facebook.com/udaraekanayake1996" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/udaraekanayake_96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/udaraekanayake96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/udaraekanayake7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%231DA1Q2.svg?&style=flat-square&logo=Stackoverflow&logoColor=black" alt="StackOverFlow"></a>
-
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
+![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
+![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
 
 <br/>
 
@@ -66,6 +59,15 @@ UI, UX, and design in general.
 
 - ⚡ Fun fact **I play video games , watch English movies , TV-series & animes**.
   <br/>
+
+  ### 👨🏻‍💻 Follow me around the web 
+<a href="https://facebook.com/udaraekanayake1996" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/udaraekanayake_96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/udaraekanayake96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/udaraekanayake7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%231DA1Q2.svg?&style=flat-square&logo=Stackoverflow&logoColor=black" alt="StackOverFlow"></a>
+
+<br/>
 
 ## Awards 🥇
 
@@ -125,16 +127,6 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
 #### A journey started with 
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
-#### 🖥️ My DevSetup
-
-<img src="https://img.shields.io/badge/Apple-555555.svg?&style=flat-square&logo=apple&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=Brave&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
-
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
-![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
-![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
-
 
 ## Snake eating my contributions graph 🐍
 
@@ -169,5 +161,8 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
     <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
   </a>
 </p>
+
+
+
 
 
