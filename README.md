@@ -34,16 +34,12 @@ UI, UX, and design in general.
 </p>
 
 
-<br> 
-
 ### 🖥️ My DevSetup
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
 ![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
 ![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
-
-<br/>
 
 ## About Me 🙋‍♂️
 
