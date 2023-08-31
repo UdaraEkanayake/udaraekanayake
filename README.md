@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/vPdHRQC/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f6164.gif)
+![](https://github.com/halfros/halfrost/blob/master/icons/header_1.png)
 
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Udara%20Ekanayake;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Gamer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=25" width="100%"></a>
