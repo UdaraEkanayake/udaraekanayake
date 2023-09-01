@@ -45,7 +45,7 @@ UI, UX, and design in general.
 
 ## About Me 🙋‍♂️
 
-- 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an Instructor.
+- 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor.
 
 - 🐺 Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)**
 
