@@ -35,14 +35,6 @@ UI, UX, and design in general.
 
 </p>
 
-
-### 🖥️ My DevSetup
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
-![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
-![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
-
 ## About Me 🙋‍♂️
 
 - 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor.
@@ -96,13 +88,17 @@ UI, UX, and design in general.
 
 <br/>
 
+## Support me 👨🏻‍💻
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
-<a href="https://www.buymeacoffee.com/udara96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/udara96" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+</p>
 
 <br/>
 
-#### Also Familiar
+### Also Familiar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -116,13 +112,20 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
-#### In free time
+### In free time
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-#### A journey started with 
+### 🖥️ My DevSetup
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
+![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
+![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
+
+### A journey started with 
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 
