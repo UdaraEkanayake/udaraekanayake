@@ -88,15 +88,6 @@ UI, UX, and design in general.
 
 <br/>
 
-## Support me 👨🏻‍💻
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/udara96" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
-<br/>
 
 ### Also Familiar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -162,6 +153,16 @@ UI, UX, and design in general.
     <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
   </a>
 </p>
+
+## Support me 👨🏻‍💻
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/udara96" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+</p>
+
+<br/>
 
 
 
