@@ -130,14 +130,6 @@ UI, UX, and design in general.
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/udaraekanayake">
-    <img src="data/bottom_header.svg" alt="Udara Ekanayake">
-  </a>
-</p>
-
-<br/>
-
 ## Support me 👨🏻‍💻
 
 <p align="center">
@@ -147,6 +139,17 @@ UI, UX, and design in general.
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://github.com/udaraekanayake">
+    <img src="data/bottom_header.svg" alt="Udara Ekanayake">
+  </a>
+</p>
+
+<br/>
+
+
+
 
 
 
