@@ -50,7 +50,7 @@ UI, UX, and design in general.
 
 </p>
   
-## Holopin Badges 🥇🦖
+##🦖 Holopin Badges 
 
 [![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
 
@@ -59,7 +59,7 @@ UI, UX, and design in general.
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
  
-## 📊 Github Stats and Activity
+##📊 Github Stats and Activity
 
   <h3>🔥 Streak Stats</h3>
 
@@ -83,14 +83,14 @@ UI, UX, and design in general.
 
 <br/>
 
-## Languages and Tools 🎲
+##🎲 Languages and Tools 
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,c,cpp,cs,html,css,tailwind,js,nextjs,nodejs,express,laravel,java,react,azure,docker,eclipse,idea,firebase,linkedin,matlab,mongodb,mysql,php,postman,spring,stackoverflow,unity,visualstudio,vscode,threejs,raspberrypi,dotnet,blender,androidstudio)
 
 <br/>
 
 
-## Also Familiar
+##🫂 Also Familiar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -104,24 +104,24 @@ UI, UX, and design in general.
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
-## In free time
+##🍿 In free time
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-## 🖥️ My DevSetup
+##🖥️ My DevSetup
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
 ![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
 ![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
 
-## A journey started with 
+##🤓 A journey started with 
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 
-## Snake eating my contributions graph 🐍
+##🐍 Snake eating my contributions graph 
 
 <picture>
   <source
@@ -140,7 +140,7 @@ UI, UX, and design in general.
 
 <br/>
 
-## Support me 👨🏻‍💻
+##👨🏻‍💻 Support me 
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/udara96" target="_blank">
