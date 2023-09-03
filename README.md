@@ -23,7 +23,7 @@ UI, UX, and design in general.
   
 <br/>
 
-## About Me 🙋‍♂️
+## 🙋🏻 About Me 
 
 - 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor.
 
@@ -55,7 +55,7 @@ UI, UX, and design in general.
 [![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
 
 
-## Stackoverflow Status 👾
+## 👾 Stackoverflow Status 
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
  
