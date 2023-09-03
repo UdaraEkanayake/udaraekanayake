@@ -55,7 +55,7 @@ UI, UX, and design in general.
 [![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
 
 
-## Stackoverflow and Github Status 👾
+## Stackoverflow Status 👾
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
  
