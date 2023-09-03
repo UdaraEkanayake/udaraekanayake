@@ -83,8 +83,7 @@ UI, UX, and design in general.
 
 <br/>
 
-<h3 align="left">Languages and Tools 🎲</h3>
-<br/>
+## Languages and Tools 🎲
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,c,cpp,cs,html,css,tailwind,js,nextjs,nodejs,express,laravel,java,react,azure,docker,eclipse,idea,firebase,linkedin,matlab,mongodb,mysql,php,postman,spring,stackoverflow,unity,visualstudio,vscode,threejs,raspberrypi,dotnet,blender,androidstudio)
 
