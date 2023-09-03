@@ -147,13 +147,6 @@ UI, UX, and design in general.
 
 <br/>
 
-<p align="center"> 
-  Visitor count<br>
-  <a href="https://udaraekanayake.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
-  </a>
-</p>
-
 ## Support me 👨🏻‍💻
 
 <p align="center">
