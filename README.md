@@ -48,16 +48,8 @@ UI, UX, and design in general.
 - 📮 How to reach me **udaraekanayake.in@gmail.com**
 
 - ⚡ Fun fact **I play video games , watch English movies , TV-series & animes**.
-  <br/>
-
-### 👨🏻‍💻 Follow me around the web 
-<a href="https://facebook.com/udaraekanayake1996" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/udaraekanayake_96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/udaraekanayake96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/udaraekanayake7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%231DA1Q2.svg?&style=flat-square&logo=Stackoverflow&logoColor=black" alt="StackOverFlow"></a>
-
 <br/>
+  
 
 ## Awards 🥇
 
