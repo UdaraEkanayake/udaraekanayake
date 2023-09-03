@@ -59,7 +59,7 @@ UI, UX, and design in general.
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
  
-##📊 Github Stats and Activity
+## 📊 Github Stats and Activity
 
   <h3>🔥 Streak Stats</h3>
 
