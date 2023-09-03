@@ -110,7 +110,7 @@ UI, UX, and design in general.
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-##🖥️ My DevSetup
+## 🖥️ My DevSetup
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
