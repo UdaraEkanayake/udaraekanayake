@@ -23,18 +23,6 @@ UI, UX, and design in general.
   
 <br/>
 
-<!-- Badges with custom icons section -->
-<p align="center" width="100%">
-
-<a href="https://github.com/udaraekanayake?tab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=udaraekanayake&style=plastic" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/udaraekanayaketab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-
-</p>
-
 ## About Me 🙋‍♂️
 
 - 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor.
@@ -49,8 +37,19 @@ UI, UX, and design in general.
 
 - ⚡ Fun fact **I play video games , watch English movies , TV-series & animes**.
 <br/>
-  
 
+<!-- Badges with custom icons section -->
+<p align="center" width="100%">
+
+<a href="https://github.com/udaraekanayake?tab=followers" target="_blank">
+  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=udaraekanayake&style=plastic" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/udaraekanayaketab=followers" target="_blank">
+  <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+
+</p>
+  
 ## Awards 🥇
 
 [![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
