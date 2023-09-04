@@ -42,7 +42,7 @@ UI, UX, and design in general.
 - <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)** <br>
 - <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m looking to collaborate on **OpenSource Projects**. <br>
 - <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **udaraekanayake.in@gmail.com**<br>
-- &nbsp;&nbsp;<img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact **I play video games , watch English movies , TV-series & animes**.<br>
+- &nbsp;&nbsp;<img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact :**I play video games , watch English movies , TV-series & animes**.<br>
 
 <br/>
 
