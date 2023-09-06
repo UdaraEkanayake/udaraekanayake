@@ -13,15 +13,6 @@ technology.</h3>
 
 <br/>
 
-<center>
-<b>Note:</b> I really enjoy learning languages and
-frameworks like React and React Native, as well as learning Software engineering. And also enjoy wireframing,
-UI, UX, and design in general.
-</center>
-
-<br/>
-  
-<br/>
 
 ## 🙋🏻 About Me 
 
