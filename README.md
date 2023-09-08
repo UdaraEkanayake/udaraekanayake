@@ -15,7 +15,7 @@ technology.</h3>
 
 <center>
 <b>Note:</b> I really enjoy learning languages and
-frameworks like React and React Native.
+frameworks.
 </center>
 
 </br>
