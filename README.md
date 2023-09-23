@@ -14,7 +14,7 @@ technology....</h3>
 <br/>
 
 <center>
-<b>Note:</b> I really enjoy learning languages and
+<b>Note:</b> I really enjoy learning programming languages and
 frameworks.
 </center>
 
