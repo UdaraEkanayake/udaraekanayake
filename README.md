@@ -8,7 +8,7 @@
 
 <h3 align="center">A motivated and punctual individual who can work in a busy environment and produce high standards of work while being excellent in teamwork , dedication and interpersonal skills. I want to make this planet a better
 place for all the living beings and I'm trying my best to achieve it with
-technology....</h3>
+technology...</h3>
 <p>
 
 <br/>
