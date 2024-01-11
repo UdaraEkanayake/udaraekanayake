@@ -27,7 +27,7 @@ frameworks.
 
 ## 🙋🏻 About Me 
 
--  <img alt="GIF" src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor and learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/Developer.gif" width="25" /> &nbsp;I'm a Former IT Instructor at **[NIBM](https://www.nibm.lk/)** and currently working at **[eArrow](http://www.earrow.net/)** as an Full Stack Software Engineer. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)** <br>
 - <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m looking to collaborate on **OpenSource Projects**. <br>
 - <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **udaraekanayake.in@gmail.com**<br>
