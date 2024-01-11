@@ -1,7 +1,11 @@
-![](udara-master/icons/266085700-dbd518f6-b3c5-4e8f-ad42-281b819d9f22.png)
+<p align="center">
+ <a href="https://github.com/udaraekanayake">
+  <img src="https://masteringnuxt.com/images/astronaut.webp" height="400"/>
+ </a>
+</p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Udara%20Ekanayake;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Gamer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=25" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Madhusha%20Prasad;Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;Student%20@vueschool;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
 
 
